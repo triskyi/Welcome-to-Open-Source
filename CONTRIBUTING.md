@@ -32,7 +32,33 @@
         </a>
     </td>
     ```
-
+  <td align="center">
+        <a href="https://alisolanki.com/">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Ali Solanki</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://github.com/neeraj500">
+            <img src="  <td align="center">
+        <a href="https://alisolanki.com/">
+            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+            <br />
+            <sub><b>Ali Solanki</b></sub>
+        </a>
+    </td>
+     <td align="center">
+        <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
+            <br />
+            <sub><b>Tresor Bertrand Ishimwe
+        </a>
+    </td>" width="100px;" alt="Tresor Bertrand Ishimwe"/>
+            <br />
+            <sub><b>Tresor Bertrand Ishimwe
+        </a>
+    </td>
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
